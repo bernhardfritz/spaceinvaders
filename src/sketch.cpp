@@ -30,7 +30,7 @@ float s = 2.0f;
 
 LaserBase laserbase(vec2(_width / 2.0f - s * sprites[10].columns / 2.0f, _height - 90.0f), s, GREEN, sprites[10]);
 
-Blocker topBlocker(0.0f, 55.0f, _width, 58.0f, TRANSPARENT);
+Blocker topBlocker(0.0f, 55.0f, _width, 58.0f, BLACK);
 Blocker bottomBlocker(0.0f, _height - 38.0f, _width, _height - 35.0f, GREEN);
 
 Swarm swarm;
