@@ -14,7 +14,7 @@ make
 ./bin/sketch
 ```
 
->Hint: Instead of `mingw32-make` and `.\bin\sketch`, use `make` and `./bin/sketch.exe` respectively for Windows.
+>Hint: Instead of `make` and `./bin/sketch`, use `mingw32-make` and `.\bin\sketch.exe` respectively for Windows.
 
 ![screenshot001](screenshot001.png)
 
